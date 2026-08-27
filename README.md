@@ -159,20 +159,6 @@ Seed bank management system for small and medium farmers in India — seed stora
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushagra0526&theme=tokyonight" width="98%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kushagra0526&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kushagra0526&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kushagra0526&theme=tokyonight" width="32%" />
-</p>
-
-> 💡 **307+ commits** across all branches — the stats card above only counts default-branch commits on public repos.
-
 ---
 
 ## 📫 Reach Me
