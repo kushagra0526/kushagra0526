@@ -43,6 +43,7 @@ I'm a **Software Engineer** studying at **LNMIIT, Jaipur** — obsessed with bui
 ## 🛠️ Tech Stack
 
 ### Languages
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -50,6 +51,7 @@ I'm a **Software Engineer** studying at **LNMIIT, Jaipur** — obsessed with bui
 </p>
 
 ### Backend & APIs
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -60,6 +62,7 @@ I'm a **Software Engineer** studying at **LNMIIT, Jaipur** — obsessed with bui
 </p>
 
 ### Frontend
+
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -67,11 +70,13 @@ I'm a **Software Engineer** studying at **LNMIIT, Jaipur** — obsessed with bui
 </p>
 
 ### Databases
+
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### AI / ML
+
 <p>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/BERT-4285F4?style=for-the-badge&logo=google&logoColor=white" />
@@ -81,6 +86,7 @@ I'm a **Software Engineer** studying at **LNMIIT, Jaipur** — obsessed with bui
 </p>
 
 ### DevOps & Infrastructure
+
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
@@ -95,6 +101,7 @@ I'm a **Software Engineer** studying at **LNMIIT, Jaipur** — obsessed with bui
 ## 🚀 Featured Projects
 
 ### 🛒 [E-Commerce Microservices Platform](https://github.com/kushagra0526/ecom_microservice_graphql)
+>
 > *Production-grade distributed system — not a tutorial project.*
 
 A full microservices backend with a **GraphQL API gateway**, **3 independent services** (user, product, order), **async event streaming via Apache Kafka**, role-based access control, and a **Next.js 14 storefront**. Ships with Swagger docs, Pino structured logging, rate limiting, Joi validation, health checks, and a full **CI/CD pipeline on GitHub Actions**.
@@ -104,6 +111,7 @@ A full microservices backend with a **GraphQL API gateway**, **3 independent ser
 ---
 
 ### 📄 [PaperQA — PDF Question Answering](https://github.com/kushagra0526/PaperQA)
+>
 > *Zero hallucination. Every answer is a verifiable span from the source text.*
 
 Upload a research paper, ask it a question. The pipeline runs: **pypdf** text extraction → **sentence-embedding retrieval** (all-MiniLM-L6-v2, cosine similarity) → **fine-tuned BERT** extractive QA to pull the exact answer span. FastAPI backend + React frontend.
@@ -113,6 +121,7 @@ Upload a research paper, ask it a question. The pipeline runs: **pypdf** text ex
 ---
 
 ### 🎙️ [VoiceNotebook-QA](https://github.com/kushagra0526/VoiceNotebook-QA)
+>
 > *Talk to your notes.*
 
 A TypeScript app that converts spoken input to text via the **Browser Speech Recognition API**, stores notes locally, and lets you search them semantically. Also supports document upload and content search.
@@ -122,6 +131,7 @@ A TypeScript app that converts spoken input to text via the **Browser Speech Rec
 ---
 
 ### 📈 [Stock Predictor](https://github.com/kushagra0526/Stock-Predictor)
+>
 > *ML-driven financial forecasting.*
 
 Predicts Apple's next-day stock price using an **ANN** trained on historical OHLC data, with **Random Forest** for feature selection to isolate the highest-signal predictors (Close, High, Low).
@@ -131,6 +141,7 @@ Predicts Apple's next-day stock price using an **ANN** trained on historical OHL
 ---
 
 ### 🌾 [AgriSys](https://github.com/kushagra0526/Agri_Sys)
+
 Seed bank management system for small and medium farmers in India — seed storage, borrowing, exchange, and crop diversity management.
 
 `JavaScript` `Node.js` `MongoDB`
@@ -140,7 +151,7 @@ Seed bank management system for small and medium farmers in India — seed stora
 ## 🏆 Achievements
 
 | | |
-|---|---|
+| --- | --- |
 | 🧩 | **450+ DSA problems** solved across LeetCode & GeeksforGeeks |
 | 🏗️ | Shipped a **production-deployed microservices platform** with live Render endpoints, Kafka, Docker, and CI/CD |
 | 🤖 | Built an **extractive QA system** grounded in verifiable source text — zero hallucination by design |
@@ -152,7 +163,7 @@ Seed bank management system for small and medium farmers in India — seed stora
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kushagra0526&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushagra0526&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=kushagra0526&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
