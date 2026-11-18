@@ -155,7 +155,17 @@ A collaborative code editor backend with a CRDT (RGA) that I wrote from scratch,
   <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
 </p>
 
-LangGraph, ChromaDB, pgvector, Claude, Gemini, MCP, RAG, embeddings and LLM evals.
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embeddings-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Evals-F7931E?style=for-the-badge" />
+</p>
 
 ### DevOps and Cloud
 
